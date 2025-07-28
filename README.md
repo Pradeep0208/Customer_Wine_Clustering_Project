@@ -29,7 +29,7 @@ Clustering-Project/
 
 ---
 
-## 📦 Datasets Used
+##  Datasets Used
 
 ### 1. Synthetic Dataset
 - Created using `make_blobs(n_samples=300, centers=4, cluster_std=0.8)`
